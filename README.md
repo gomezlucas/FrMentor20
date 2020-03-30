@@ -4,7 +4,7 @@ Ya habiendo resuelto Rock, Paper, Scissors Game, tomé ese desarrollo como base 
 se adapte a esta nueva versión. Mediante un botón, el usuario puede elegir bajo que modalidad jugar. 
 El framework que elegí para realizar este challenge es React y su programación modular me sirvió para lograr un mejor manejo de cada elemento. Para los estilos decidí usar Styled-Components y Regular Css. Generalemnte utilizando styled components para los wrapes o diseños específicos y para el resto CSS. Ese mix me permite tener un mejor control sobre el programa desde el browser y además priorizar su mantenibilidad. 
 
-![Design preview for the Rock, Paper, Scissors coding challenge](./original/desktop-step-1.jpg)
+![Design preview for the Rock, Paper, Scissors coding challenge](./public/images/spockLizardGame.png)
 
 ## Welcome! 👋
 
